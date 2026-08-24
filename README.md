@@ -1,6 +1,6 @@
-# Billiard Vision
+# Billiard Ball Tracking
 
-Billiard Vision is a C++ and OpenCV project for analysing billiard-shot videos. It detects the playing field and balls in the first and last frames of a clip, classifies the balls, produces segmentation masks, and tracks the detected balls throughout the video.
+Billiard Ball Tracking is a C++ and OpenCV project for analysing billiard-shot videos. It detects the playing field and balls in the first and last frames of a clip, classifies the balls, produces segmentation masks, and tracks the detected balls throughout the video.
 
 ## Features
 
