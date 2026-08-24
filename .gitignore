@@ -1,0 +1,22 @@
+# Dataset and local report copy
+/data/
+/Copia di REPORT.pdf
+
+# CMake build output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Compiled files
+*.o
+*.d
+/src/BilliardVision
+/src/Metrics
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
